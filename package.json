@@ -14,7 +14,7 @@
     "consolidate": "^0.15.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "firebase-admin": "^8.9.2",
+    "firebase-admin": "^11.4.1",
     "multer": "^1.4.2",
     "swig": "^1.4.2"
   }
